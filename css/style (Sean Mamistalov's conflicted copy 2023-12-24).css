@@ -1,0 +1,100 @@
+body{
+
+    background-color: lightgray;
+
+
+     font-family: Arial, Helvetica, sans-serif;
+
+    color: rgba(203, 17, 228, 0.884);
+
+    text-align: center;
+
+ 
+
+}
+
+h2{
+
+    font-size: 15px;
+
+}
+
+ 
+
+table {
+
+    margin: 100px auto;
+
+}
+
+ 
+
+.cell {
+
+    width: 40px;
+
+    height: 40px;
+
+    text-align: center;
+
+}
+
+ 
+
+.cell img {
+
+    width: 25px;
+
+    height: auto;
+
+}
+
+ 
+
+.floor {
+
+    background-color: rgba(183, 183, 183, 0.479);
+
+    border-radius: 5px;
+
+    animation-delay: 2s;
+
+}
+
+ 
+
+.wall {
+
+    background-color: lightsalmon;
+
+    border-radius: 5px;
+
+}
+
+ 
+
+.hidden {
+
+    display: none;
+
+}
+
+.timer {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 16px;
+
+    color: white;
+
+}
+
+ 
+
+restart {
+
+    margin-top: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
